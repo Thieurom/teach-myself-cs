@@ -17,7 +17,7 @@ Teach myself computer science, following [teachyourselfcs.com](https://teachyour
 |Distributed Systems|Distributed Systems, 3rd Edition by Maarten van Steen|🤷‍|
 
 ## My takes
-*Mine is not necessarily from the above list.*
+*Mine is not necessarily from the above list and may contain more than one work (book, video, online course, ...) for each subject.*
 
 ### Programming
 - [sicp](https://github.com/Thieurom/sicp)
@@ -30,7 +30,7 @@ Teach myself computer science, following [teachyourselfcs.com](https://teachyour
 
 ### Mathematics for Computer Science
 
-### Operating Systems|Operating System Concepts
+### Operating Systems
 - [OSC](https://github.com/Thieurom/OSC)
 
 ### Computer Networking
